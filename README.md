@@ -14,3 +14,33 @@ AI_API_KEY = AIzaSyAk154sOjNAsf_Lv6dog_Qg3ir9s5s9qvQ   DB_API_KEY = TRSZSyAk154s
 
 
 trigger_SECRET = nothing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what if 
