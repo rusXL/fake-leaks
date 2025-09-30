@@ -8,3 +8,9 @@ This repo contains files for testing various git repo scanner configs. Nothing i
 GOOGLE_API_KEY = AIzaSyAk154sOjNAsf_Lv6dog_Qg3ir9s5s9qvQ   OPENAI_API_KEY = TRSZSyAk154sOjNAsf_Lv6dog_Qg3ir9s5s9qvQ
 
 AI_API_KEY = AIzaSyAk154sOjNAsf_Lv6dog_Qg3ir9s5s9qvQ   DB_API_KEY = TRSZSyAk154sOjNAsf_Lv6dog_Qg3ir9s5s9qvQ
+
+
+
+
+
+trigger_SECRET = nothing
